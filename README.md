@@ -37,3 +37,12 @@ HomestayBooking/
 ├── docs/                # Project documentation
 │   └── REPORT_HomestayBooking.pdf
 └── README.md
+```
+## 📊 Documentation
+
+For a deep dive into the system analysis, including **Class Diagrams** and **Sequence Diagrams**, please refer to the comprehensive project report:
+
+👉 **[View Full Project Report (PDF)](./docs/REPORT_HomestayBooking.pdf)**
+
+---
+*Developed as part of the FPT University Computer Science curriculum.*
